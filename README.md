@@ -1,5 +1,8 @@
 # Appvendas
 
+Projeto da Alura de criação de app através do react native.
+
+
 **Tecnologias utilizadas**
 
 * NodeJS 20.11.1
